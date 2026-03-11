@@ -180,3 +180,6 @@ The analysis demonstrates a significant urban sprawl in 6th of October City, sho
 
 -   **Wickham, H. (2016).** *ggplot2: Elegant Graphics for Data Analysis*. Springer-Verlag New York.
 
+## License
+
+This project is licensed under the MIT License.
